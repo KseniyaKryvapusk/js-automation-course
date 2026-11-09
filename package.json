@@ -1,0 +1,13 @@
+{
+  "name": "js-automation-course",
+  "version": "1.0.0",
+  "description": "Repository used for hands-on practice in the Automation Testing in JS course.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kseniya.kryvapusk@gmail.com",
+  "license": "ISC",
+  "type": "commonjs"
+}
